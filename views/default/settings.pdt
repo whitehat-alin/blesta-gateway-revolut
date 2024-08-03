@@ -1,0 +1,8 @@
+<ul>
+    <li>
+        <?php
+        $this->Form->label($this->_('Revolut.merchant_key', true), 'merchant_key');
+        $this->Form->fieldText('merchant_key', ($meta['merchant_key'] ?? null), ['id'=>'merchant_key']);
+        ?>
+    </li>
+</ul>
