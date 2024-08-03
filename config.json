@@ -1,0 +1,11 @@
+{
+        "version": "0.1",
+        "name": "Revolut.name",
+        "description": "Revolut.description",
+        "authors": [
+        {
+            "name": "Internet Limited",
+            "url": "https://whitehat.ro"
+        }
+    ]
+}
